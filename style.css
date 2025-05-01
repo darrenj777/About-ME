@@ -1,0 +1,16 @@
+.type {
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-weight: <200>;
+font-style: normal;
+}
+
+.header {
+    background-color: navy;
+    text-align: center;
+    padding: 20px;
+  }
+  
+.body {
+    background-color: powderblue;
+}
