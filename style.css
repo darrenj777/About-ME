@@ -1,4 +1,6 @@
-.type {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.body { background-color: powderblue;
 font-family: "Montserrat", sans-serif;
 font-optical-sizing: auto;
 font-weight: medium;
@@ -11,6 +13,4 @@ font-style: normal;
     padding: 20px;
   }
   
-.body {
-    background-color: powderblue;
-}
+
