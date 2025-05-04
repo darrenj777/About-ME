@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-
 .body { background-color: powderblue;
 font-family: "Montserrat", sans-serif;
 font-optical-sizing: auto;
@@ -13,4 +11,5 @@ font-style: normal;
     padding: 20px;
   }
   
-
+.p {Line-height: 1.6; font-size: 1.1rem
+}
