@@ -20,4 +20,4 @@ Darren Johnson -(https://github.com/darrenj777)
  - Linking a CSS file
  - Applying color, font, and spacing rules
  - Following a layout and style guide
-
+Submitted to Github for grading.

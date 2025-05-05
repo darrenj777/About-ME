@@ -1,15 +1,19 @@
-.body { background-color: powderblue;
+body {max-width: 900px; margin: 0 auto; 
+background-color: powderblue;
 font-family: "Montserrat", sans-serif;
 font-optical-sizing: auto;
 font-weight: medium;
 font-style: normal;
 }
 
-.header {
-    background-color: navy;
+header {font-size: large;
+    background-color: rgb(102, 102, 146)
+    ;
     text-align: center;
     padding: 20px;
   }
-  
-.p {Line-height: 1.6; font-size: 1.1rem
+  img { border-radius: 50%;}
+p {Line-height: 1.6; font-size: 1.1rem
 }
+a {color: light gray;}
+a:hover {color: yellow;}
